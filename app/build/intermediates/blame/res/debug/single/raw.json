@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\chiara\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\mchammer.mp3",
+        "source": "C:\\Users\\chiara\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\raw\\mchammer.mp3"
+    },
+    {
+        "merged": "C:\\Users\\chiara\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\snap.mp3",
+        "source": "C:\\Users\\chiara\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\raw\\snap.mp3"
+    },
+    {
+        "merged": "C:\\Users\\chiara\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\george.mp3",
+        "source": "C:\\Users\\chiara\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\raw\\george.mp3"
+    },
+    {
+        "merged": "C:\\Users\\chiara\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\jamesbrown.mp3",
+        "source": "C:\\Users\\chiara\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\raw\\jamesbrown.mp3"
+    }
+]
